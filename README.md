@@ -42,4 +42,4 @@ You can view the live app [here](#)  <!-- Replace # with your GitHub Pages or ho
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/zahid-gulzar/weather-app.git
+git clone https://github.com/zahid-gulzar/weather-app
